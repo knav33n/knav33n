@@ -1,5 +1,5 @@
 Hi 👋 My name is Naveen
-=======================Javascript Developer( React | Node ) keen on hopping into Devops----------------------------------------------------------------* 🌍  I'm based in Bengaluru* 🖥️  See my portfolio at [naveenkumar.dev](http://naveenkumar.dev)* ✉️  You can contact me at [nnav33nk@gmail.com](mailto:nnav33nk@gmail.com)* 🚀  I'm currently working on [an Ed-Tech Platform](http://www.hmhco.com)* 🧠  I'm preparing to become an AWS certified Solutions Architect Associate * 🤝  I'm open to collaborating on MERN projects or Devops based tasks
+=======================Javascript Developer( React | Node ) keen on hopping into Devops----------------------------------------------------------------* 🌍  I'm based in Bengaluru* 🖥️  See my portfolio at [naveenkumar.dev](http://naveenkumar.dev)* ✉️  You can contact me at [nnav33nk@gmail.com](mailto:nnav33nk@gmail.com)* 🚀  I'm currently working on [an Ed-Tech Platform](http://www.hmhco.com)* 🧠  I'm learning to become an AWS certified Solutions Architect Associate* 🤝  I'm open to collaborating on MERN projects or Devops based tasks
 
 ### Skills
 
