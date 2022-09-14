@@ -4,6 +4,8 @@ Hi 👋 My name is Naveen
 I am a Javascript Developer( React | Node ) keen on hopping into Devops
 ----------------------------------------------------------------
 
+A passionate generalist with over 6 years of experience developing web applications. My strongest skill has been Javascript and I have had the opportunity to work on many web applications, which were front-end heavy and were built using React JS.
+
 * 🌍  I'm based in Bengaluru
 * 🖥️  See my portfolio at [naveenkumar.dev](http://naveenkumar.dev)
 * ✉️  You can contact me at [nnav33nk@gmail.com](mailto:nnav33nk@gmail.com)
