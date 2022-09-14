@@ -1,7 +1,7 @@
 Hi 👋 My name is Naveen
 =======================
 
-Javascript Developer( React | Node ) keen on hopping into Devops
+I am a Javascript Developer( React | Node ) keen on hopping into Devops
 ----------------------------------------------------------------
 
 * 🌍  I'm based in Bengaluru
